@@ -23,7 +23,8 @@
         "https://pypi.org/project/nft-press-release-faq-generator/",
         "https://nft-press-release-faq-generator.readthedocs.io",
         "https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset",
-        "https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset"
+        "https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset",
+        "https://doi.org/10.5281/zenodo.24092193"
       ]
     },
     {
