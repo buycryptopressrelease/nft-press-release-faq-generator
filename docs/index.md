@@ -290,7 +290,7 @@ Yes. Free crypto press release templates (https://buycryptopressrelease.com/cryp
 | PyPI | https://pypi.org/project/nft-press-release-faq-generator/ |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset |
 | Kaggle | https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.24092193 |
 | Docs | https://nft-press-release-faq-generator.readthedocs.io |
 | Email | mojo@wewinconsultants.com |
 | Telegram | https://t.me/indianmojojo |
