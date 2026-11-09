@@ -1,0 +1,21 @@
+site_name: NFT Press Release FAQ Generator
+site_url: https://nft-press-release-faq-generator.readthedocs.io/
+site_description: Search 50 NFT press release FAQs from BuyCryptoPressRelease.com NFT Project PR in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage schema or HTML.
+site_author: BuyCryptoPressRelease.com
+repo_url: https://github.com/buycryptopressrelease/nft-press-release-faq-generator
+repo_name: buycryptopressrelease/nft-press-release-faq-generator
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: amber
+  features:
+    - navigation.sections
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md

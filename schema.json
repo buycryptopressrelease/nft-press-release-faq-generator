@@ -1,0 +1,124 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://buycryptopressrelease.com/#organization",
+      "name": "BuyCryptoPressRelease.com",
+      "url": "https://buycryptopressrelease.com/",
+      "email": "mojo@wewinconsultants.com",
+      "telephone": "+19177958348",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "mojo@wewinconsultants.com",
+        "telephone": "+19177958348",
+        "url": "https://buycryptopressrelease.com/contact/"
+      },
+      "sameAs": [
+        "https://buycryptopressrelease.com/",
+        "https://github.com/buycryptopressrelease",
+        "https://github.com/buycryptopressrelease/nft-press-release-faq-generator",
+        "https://www.npmjs.com/package/nft-press-release-faq-generator",
+        "https://pypi.org/project/nft-press-release-faq-generator/",
+        "https://nft-press-release-faq-generator.readthedocs.io",
+        "https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset",
+        "https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "NFT Project PR Distribution",
+      "url": "https://buycryptopressrelease.com/nft-project-pr/",
+      "provider": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "description": "NFT press release distribution for collection launches, mint announcements, marketplace updates and Web3 art projects, with free writing, revisions and verified live URLs.",
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "20",
+        "priceCurrency": "USD",
+        "url": "https://buycryptopressrelease.com/nft-project-pr/"
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "NFT Press Release FAQ Generator",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Node.js, Python",
+      "codeRepository": "https://github.com/buycryptopressrelease/nft-press-release-faq-generator",
+      "downloadUrl": "https://pypi.org/project/nft-press-release-faq-generator/",
+      "license": "https://opensource.org/licenses/MIT",
+      "softwareVersion": "1.0.0",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "description": "Search 50 NFT press release FAQs from BuyCryptoPressRelease.com NFT Project PR in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage schema or HTML."
+    },
+    {
+      "@type": "FAQPage",
+      "name": "NFT Press Release FAQ",
+      "url": "https://buycryptopressrelease.com/nft-project-pr/",
+      "publisher": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "mainEntity": [
+        {"@type": "Question", "name": "What is NFT Project PR?", "acceptedAnswer": {"@type": "Answer", "text": "NFT Project PR is the BuyCryptoPressRelease.com service for distributing NFT announcements, such as collection launches, mint dates, marketplace updates and Web3 campaigns, to crypto, finance, business and technology media. See https://buycryptopressrelease.com/nft-project-pr/"}},
+        {"@type": "Question", "name": "What is an NFT press release?", "acceptedAnswer": {"@type": "Answer", "text": "An NFT press release is a short, factual news announcement about an NFT project, such as a new collection, a mint date, a reveal, a partnership or a marketplace listing, written in a news style so media sites can publish it."}},
+        {"@type": "Question", "name": "What are the benefits of a press release for an NFT project?", "acceptedAnswer": {"@type": "Answer", "text": "A press release puts your project on established news sites, gives collectors and partners a source they can check, helps your project show up in Google and AI search, and gives your community links to share."}},
+        {"@type": "Question", "name": "Who is the NFT Project PR service for?", "acceptedAnswer": {"@type": "Answer", "text": "NFT founders, artists and creators, Web3 startups, NFT marketplaces, blockchain gaming studios, digital art businesses and NFT marketing agencies."}},
+        {"@type": "Question", "name": "What types of NFT projects are supported?", "acceptedAnswer": {"@type": "Answer", "text": "Generative art and PFP collections, digital art and photography, gaming NFTs, music NFTs, membership and utility NFTs, metaverse assets and NFT marketplaces. Each release still has to meet the editorial rules of the chosen outlets."}},
+        {"@type": "Question", "name": "What kinds of NFT announcements can I publish?", "acceptedAnswer": {"@type": "Answer", "text": "Collection launches, mint announcements, reveal dates, marketplace listings, artist collaborations, partnerships, roadmap milestones, game or utility updates, community events and sold out announcements."}},
+        {"@type": "Question", "name": "Which media sites publish NFT press releases?", "acceptedAnswer": {"@type": "Answer", "text": "BuyCryptoPressRelease.com advertises a network of more than 320 crypto, finance, business and technology outlets. The exact sites depend on the single placement or combo package you choose on the website."}},
+        {"@type": "Question", "name": "Do you cover NFTs on every blockchain?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. NFT announcements are accepted whatever the chain, including Ethereum, Solana, Polygon, Base, BNB Chain and Bitcoin Ordinals. Name the chain and token standard clearly in your release."}},
+        {"@type": "Question", "name": "What other crypto PR services does BuyCryptoPressRelease.com offer?", "acceptedAnswer": {"@type": "Answer", "text": "Crypto presale PR, ICO and IDO PR, token launch and listing PR, exchange listing PR, DeFi protocol PR, metaverse and Web3 PR, and cloud mining PR. See https://buycryptopressrelease.com/"}},
+        {"@type": "Question", "name": "Is there a free tool to plan my NFT announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The free NFT Collection Announcement Analyzer turns your supply, traits, mint dates and milestones into announcement angles, headline ideas and a press release outline: https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/"}},
+        {"@type": "Question", "name": "Can I announce a new NFT collection launch?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A collection launch release usually covers the project name, chain, total supply, art style, mint date, mint price, marketplace and what holders get."}},
+        {"@type": "Question", "name": "Can I publish a mint date announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A mint announcement should give the mint date and time with time zone, the mint price, the supply, the marketplace or mint page, and any allowlist or presale phases."}},
+        {"@type": "Question", "name": "How early should I publish before my mint?", "acceptedAnswer": {"@type": "Answer", "text": "Many projects publish about one to two weeks before the mint so collectors have time to prepare, then follow up on mint day. Book a few days before your target date, because each outlet has its own publishing timeline."}},
+        {"@type": "Question", "name": "Can I publish an NFT reveal announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A reveal announcement can share the reveal date, how holders see their artwork, rarity or trait highlights, and where to view the collection."}},
+        {"@type": "Question", "name": "Can I announce a marketplace listing?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can announce a listing or launch on marketplaces such as OpenSea, Magic Eden, Blur or Tensor. Include the official collection link so readers find the right page."}},
+        {"@type": "Question", "name": "Can I announce that my collection sold out?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, if it is true and verifiable on chain. Give the supply and the date it minted out, and avoid claims about future price or value."}},
+        {"@type": "Question", "name": "Can I announce an artist collaboration or partnership?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Name both parties, explain what the collaboration includes and when it starts. Only describe a partnership as confirmed once both sides have agreed to it."}},
+        {"@type": "Question", "name": "Can I publish a roadmap or milestone update?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Describe completed milestones as done, and upcoming or planned ones as scheduled or planned. Do not present plans as finished work."}},
+        {"@type": "Question", "name": "Can blockchain gaming projects publish NFT news?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Gaming NFT news such as character collections, beta launches and in game item releases fits NFT Project PR, and metaverse news also fits the metaverse and Web3 PR service: https://buycryptopressrelease.com/metaverse-web3-pr/"}},
+        {"@type": "Question", "name": "Can I publish several announcements over my launch?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Many projects publish a series: collection announcement, mint date, mint day, reveal and a later milestone update. Each release is a separate order."}},
+        {"@type": "Question", "name": "Can you write my NFT press release?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The editorial team writes and polishes the press release at no extra cost. You can send a short brief instead of a finished draft."}},
+        {"@type": "Question", "name": "Can I upload my own NFT press release draft?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Upload your draft and the team reviews it and prepares it for distribution."}},
+        {"@type": "Question", "name": "What details should I send for my NFT release?", "acceptedAnswer": {"@type": "Answer", "text": "Project name, chain and token standard, supply, mint price, mint and reveal dates, marketplace link, website and socials, what holders get, a short founder quote, a media contact and a logo or artwork image."}},
+        {"@type": "Question", "name": "Can I review the release before it is published?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The team shares the prepared release with you for review and approval before distribution begins."}},
+        {"@type": "Question", "name": "Are revisions included?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Revisions are included as part of the writing process, before you approve the final release."}},
+        {"@type": "Question", "name": "How long should an NFT press release be?", "acceptedAnswer": {"@type": "Answer", "text": "Most NFT releases work well at about 400 to 800 words: a clear headline, a short opening paragraph with the key facts, details, a quote, and an about section."}},
+        {"@type": "Question", "name": "How do I write a good NFT press release headline?", "acceptedAnswer": {"@type": "Answer", "text": "Lead with the project name and the news, add one concrete fact such as the supply, chain or date, and keep it factual. For example: Project Name Sets March 10 Mint Date for 5,000 Piece Collection on Ethereum."}},
+        {"@type": "Question", "name": "What content gets rejected?", "acceptedAnswer": {"@type": "Answer", "text": "Guaranteed returns, price predictions, profit promises, misleading hype, unverified claims, fake partnerships and copied artwork. Keep the tone factual and newsworthy."}},
+        {"@type": "Question", "name": "Should I include a risk disclaimer?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Add a short line saying NFTs are digital assets that carry risk and the release is not financial advice. Many crypto outlets expect it."}},
+        {"@type": "Question", "name": "Can I include links, images and a contract address?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can include your website, marketplace page, social links, artwork images and the verified contract address. Link attributes and image support depend on each outlet."}},
+        {"@type": "Question", "name": "Will my NFT press release be indexed by Google?", "acceptedAnswer": {"@type": "Answer", "text": "BuyCryptoPressRelease.com advertises Google indexed placements across its network. Indexing speed is decided by Google and can vary by outlet."}},
+        {"@type": "Question", "name": "Do NFT press releases include dofollow backlinks?", "acceptedAnswer": {"@type": "Answer", "text": "The website advertises dofollow links where the outlet supports them. Link attributes depend on each publication's own policy."}},
+        {"@type": "Question", "name": "Will I receive live links after publication?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You receive verified live URLs for every confirmed placement after distribution."}},
+        {"@type": "Question", "name": "How long does it take for an NFT press release to go live?", "acceptedAnswer": {"@type": "Answer", "text": "Each outlet follows its own editorial timeline. The team tells you the expected publishing window for each outlet before distribution."}},
+        {"@type": "Question", "name": "Will all sites publish on the same day?", "acceptedAnswer": {"@type": "Answer", "text": "Not always. Each outlet has its own schedule, so publication dates can differ within a combo package."}},
+        {"@type": "Question", "name": "Can you publish on an exact date?", "acceptedAnswer": {"@type": "Answer", "text": "The team shares the expected publication window for each outlet. Exact timing depends on each outlet's editorial schedule, so plan a buffer before your mint."}},
+        {"@type": "Question", "name": "Is publication guaranteed once I order?", "acceptedAnswer": {"@type": "Answer", "text": "Your release is distributed to the outlets you choose and you get verified URLs for confirmed placements. Publication is still subject to each outlet's editorial review."}},
+        {"@type": "Question", "name": "Will an NFT press release help my project in AI search?", "acceptedAnswer": {"@type": "Answer", "text": "It can help. AI search tools often cite trusted news pages, so published coverage gives them a source about your project. No one can promise how an AI tool will answer."}},
+        {"@type": "Question", "name": "Will a press release increase my NFT sales or floor price?", "acceptedAnswer": {"@type": "Answer", "text": "No one can promise sales or price results. A press release builds visibility and credibility; demand still depends on the project, the art, the community and the market."}},
+        {"@type": "Question", "name": "How should I use the published links?", "acceptedAnswer": {"@type": "Answer", "text": "Share them on X, Discord, Telegram and your website, add them to a press or media page, and use them in pitches to partners and marketplaces."}},
+        {"@type": "Question", "name": "How much does an NFT press release cost?", "acceptedAnswer": {"@type": "Answer", "text": "Single outlet placements on BuyCryptoPressRelease.com start at $20. Combo packages have fixed prices that depend on the outlets included. Check https://buycryptopressrelease.com/ for current prices."}},
+        {"@type": "Question", "name": "Can I buy a placement on just one website?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Single outlet placements let you choose one publication instead of buying a package."}},
+        {"@type": "Question", "name": "What is a combo package?", "acceptedAnswer": {"@type": "Answer", "text": "A combo package is a prebuilt bundle of several publications at one fixed price. Its outlet list is fixed and cannot be custom mixed."}},
+        {"@type": "Question", "name": "Which package should I choose for my NFT project?", "acceptedAnswer": {"@type": "Answer", "text": "Pick by audience: crypto native outlets for collectors, finance and business outlets for credibility, and combos for wider reach. Compare the outlet names and prices on the website."}},
+        {"@type": "Question", "name": "What payment methods are accepted?", "acceptedAnswer": {"@type": "Answer", "text": "Bitcoin (BTC), Ethereum (ETH), USDT on ERC20 and TRC20, Solana (SOL), and credit or debit cards through Stripe."}},
+        {"@type": "Question", "name": "Can I pay in ETH, SOL or USDT?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. ETH, SOL, BTC and USDT on ERC20 and TRC20 are accepted, along with cards through Stripe."}},
+        {"@type": "Question", "name": "How do I order NFT Project PR?", "acceptedAnswer": {"@type": "Answer", "text": "Choose a single placement or combo on the website, check out, send your draft or brief, then approve the prepared release. You can create an account at https://buycryptopressrelease.com/register/"}},
+        {"@type": "Question", "name": "Can I make a counteroffer or get a bulk deal?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The homepage invites counteroffers on packages, and agencies can ask support about bulk orders."}},
+        {"@type": "Question", "name": "How do I contact the team?", "acceptedAnswer": {"@type": "Answer", "text": "Telegram @indianmojojo (https://t.me/indianmojojo), WhatsApp +1 917 795 8348 (https://wa.me/19177958348), or email mojo@wewinconsultants.com."}},
+        {"@type": "Question", "name": "Are there free resources for writing crypto and NFT press releases?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Free crypto press release templates (https://buycryptopressrelease.com/crypto-pr-templates), a writing guide (https://buycryptopressrelease.com/crypto-pr-writing-guide/) and a crypto PR glossary (https://buycryptopressrelease.com/crypto-pr-glossary/)."}}
+      ]
+    }
+  ]
+}

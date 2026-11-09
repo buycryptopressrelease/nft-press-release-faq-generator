@@ -1,0 +1,56 @@
+{
+  "title": "NFT Press Release FAQ Generator: Question Search and FAQ Schema Generation for NFT Project PR",
+  "upload_type": "software",
+  "description": "The NFT Press Release FAQ Generator is a question search tool for NFT Project PR by BuyCryptoPressRelease.com. A user types a question about NFT press releases in plain English and the tool returns the matching answer from 50 FAQs with a match confidence score from 0 to 100. It also generates the FAQ, in full or by category, as Markdown, JSON, FAQPage schema or HTML. Covers what NFT press releases are, collection launches, mint and reveal announcements, marketplace listings, writing rules and risk disclaimers, Google indexing, dofollow links where supported, live URLs, pricing from $20, and crypto and card payments. Includes identical TypeScript (NPM) and Python (PyPI) implementations, a 50 entry FAQ dataset and a 50 question search benchmark.",
+  "creators": [
+    {
+      "name": "BuyCryptoPressRelease.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "NFT press release",
+    "NFT Project PR",
+    "NFT PR distribution",
+    "NFT mint announcement",
+    "NFT collection launch",
+    "Web3 press release",
+    "crypto press release",
+    "FAQ generator",
+    "FAQPage schema",
+    "BuyCryptoPressRelease"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://buycryptopressrelease.com/nft-project-pr/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/buycryptopressrelease/nft-press-release-faq-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/nft-press-release-faq-generator",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/nft-press-release-faq-generator/",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}
