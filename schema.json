@@ -50,7 +50,7 @@
       "codeRepository": "https://github.com/buycryptopressrelease/nft-press-release-faq-generator",
       "downloadUrl": "https://pypi.org/project/nft-press-release-faq-generator/",
       "license": "https://opensource.org/licenses/MIT",
-      "softwareVersion": "1.0.0",
+      "softwareVersion": "1.0.1",
       "offers": {
         "@type": "Offer",
         "price": "0",
@@ -78,7 +78,7 @@
         {"@type": "Question", "name": "Which media sites publish NFT press releases?", "acceptedAnswer": {"@type": "Answer", "text": "BuyCryptoPressRelease.com advertises a network of more than 320 crypto, finance, business and technology outlets. The exact sites depend on the single placement or combo package you choose on the website."}},
         {"@type": "Question", "name": "Do you cover NFTs on every blockchain?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. NFT announcements are accepted whatever the chain, including Ethereum, Solana, Polygon, Base, BNB Chain and Bitcoin Ordinals. Name the chain and token standard clearly in your release."}},
         {"@type": "Question", "name": "What other crypto PR services does BuyCryptoPressRelease.com offer?", "acceptedAnswer": {"@type": "Answer", "text": "Crypto presale PR, ICO and IDO PR, token launch and listing PR, exchange listing PR, DeFi protocol PR, metaverse and Web3 PR, and cloud mining PR. See https://buycryptopressrelease.com/"}},
-        {"@type": "Question", "name": "Is there a free tool to plan my NFT announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The free NFT Collection Announcement Analyzer turns your supply, traits, mint dates and milestones into announcement angles, headline ideas and a press release outline: https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/"}},
+        {"@type": "Question", "name": "Can I promote an NFT project before it launches?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Pre launch announcements are common: introduce the project, the art and the team, share the planned mint window, and describe anything not yet confirmed as planned."}},
         {"@type": "Question", "name": "Can I announce a new NFT collection launch?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A collection launch release usually covers the project name, chain, total supply, art style, mint date, mint price, marketplace and what holders get."}},
         {"@type": "Question", "name": "Can I publish a mint date announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. A mint announcement should give the mint date and time with time zone, the mint price, the supply, the marketplace or mint page, and any allowlist or presale phases."}},
         {"@type": "Question", "name": "How early should I publish before my mint?", "acceptedAnswer": {"@type": "Answer", "text": "Many projects publish about one to two weeks before the mint so collectors have time to prepare, then follow up on mint day. Book a few days before your target date, because each outlet has its own publishing timeline."}},
