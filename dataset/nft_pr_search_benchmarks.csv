@@ -1,0 +1,51 @@
+case_id,query,expected_id,expected_question,confidence,band
+1,what is nft project pr,1,What is NFT Project PR?,100,Strong match
+2,what does nft press release mean,2,What is an NFT press release?,67,Good match
+3,what are the benefits of pr for an nft project,3,What are the benefits of a press release for an NFT project?,100,Strong match
+4,who is this service for,4,Who is the NFT Project PR service for?,100,Strong match
+5,do you support pfp and gaming nfts,5,What types of NFT projects are supported?,63,Good match
+6,what news can i announce for my nft,6,What kinds of NFT announcements can I publish?,100,Strong match
+7,which news sites will publish my nft release,7,Which media sites publish NFT press releases?,80,Good match
+8,do you cover solana nfts,8,Do you cover NFTs on every blockchain?,92,Strong match
+9,what other crypto pr services do you have,9,What other crypto PR services does BuyCryptoPressRelease.com offer?,100,Strong match
+10,free tool for nft headline ideas,10,Is there a free tool to plan my NFT announcement?,90,Strong match
+11,announce my new nft collection,11,Can I announce a new NFT collection launch?,100,Strong match
+12,mint date announcement press release,12,Can I publish a mint date announcement?,75,Good match
+13,how many days before mint should i publish,13,How early should I publish before my mint?,70,Good match
+14,press release for my nft reveal,14,Can I publish an NFT reveal announcement?,92,Strong match
+15,announce listing on opensea,15,Can I announce a marketplace listing?,92,Strong match
+16,my collection is sold out can i announce it,16,Can I announce that my collection sold out?,100,Strong match
+17,announce a partnership with an artist,17,Can I announce an artist collaboration or partnership?,100,Strong match
+18,roadmap milestone update press release,18,Can I publish a roadmap or milestone update?,75,Good match
+19,nft game press release,19,Can blockchain gaming projects publish NFT news?,92,Strong match
+20,can i do a series of nft announcements,20,Can I publish several announcements over my launch?,92,Strong match
+21,will you write the press release for me,21,Can you write my NFT press release?,100,Strong match
+22,can i submit my own draft,22,Can I upload my own NFT press release draft?,67,Good match
+23,what information do you need from me,23,What details should I send for my NFT release?,75,Good match
+24,can i approve it before it goes live,24,Can I review the release before it is published?,44,Possible match
+25,are edits included,25,Are revisions included?,88,Strong match
+26,how many words should it be,26,How long should an NFT press release be?,38,Possible match
+27,tips for a good nft headline,27,How do I write a good NFT press release headline?,94,Strong match
+28,what content is not allowed,28,What content gets rejected?,83,Strong match
+29,do i need a risk disclaimer,29,Should I include a risk disclaimer?,100,Strong match
+30,can i add my contract address and images,30,"Can I include links, images and a contract address?",75,Good match
+31,will it be indexed on google,31,Will my NFT press release be indexed by Google?,100,Strong match
+32,are the backlinks dofollow,32,Do NFT press releases include dofollow backlinks?,100,Strong match
+33,will i get the live links,33,Will I receive live links after publication?,100,Strong match
+34,how long until my nft release is published,34,How long does it take for an NFT press release to go live?,90,Strong match
+35,will all outlets publish on the same day,35,Will all sites publish on the same day?,100,Strong match
+36,can you publish on an exact date,36,Can you publish on an exact date?,100,Strong match
+37,is publication guaranteed,37,Is publication guaranteed once I order?,100,Strong match
+38,will it help in chatgpt and ai search,38,Will an NFT press release help my project in AI search?,100,Strong match
+39,will a press release raise my floor price,39,Will a press release increase my NFT sales or floor price?,75,Good match
+40,how do i use the links in discord,40,How should I use the published links?,92,Strong match
+41,how much does an nft press release cost,41,How much does an NFT press release cost?,100,Strong match
+42,can i buy one site only,42,Can I buy a placement on just one website?,75,Good match
+43,what is a combo package,43,What is a combo package?,100,Strong match
+44,which package is best for my nft,44,Which package should I choose for my NFT project?,92,Strong match
+45,what payment methods do you accept,45,What payment methods are accepted?,67,Good match
+46,can i pay with sol,46,"Can I pay in ETH, SOL or USDT?",100,Strong match
+47,how do i place an order,47,How do I order NFT Project PR?,88,Strong match
+48,can i negotiate the price,48,Can I make a counteroffer or get a bulk deal?,88,Strong match
+49,how do i contact you on telegram,49,How do I contact the team?,88,Strong match
+50,free nft press release templates,50,Are there free resources for writing crypto and NFT press releases?,94,Strong match
