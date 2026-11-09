@@ -145,7 +145,7 @@ All 50 test searches are in [`dataset/nft_pr_search_benchmarks.csv`](dataset/nft
 7. Which media sites publish NFT press releases?
 8. Do you cover NFTs on every blockchain?
 9. What other crypto PR services does BuyCryptoPressRelease.com offer?
-10. Is there a free tool to plan my NFT announcement?
+10. Can I promote an NFT project before it launches?
 
 **launch** (Collection launches, mints, reveals, marketplace and roadmap news)
 
@@ -206,10 +206,6 @@ All 50 test searches are in [`dataset/nft_pr_search_benchmarks.csv`](dataset/nft
 - [`kaggle/notebook.ipynb`](kaggle/notebook.ipynb): walkthrough notebook
 - [`schema.json`](schema.json): Organization, Service, SoftwareApplication and FAQPage structured data
 
-## Plan Your Announcement
-
-Use the free [NFT Collection Announcement Analyzer](https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/) to turn your supply, traits, mint dates and milestones into announcement angles, headline ideas and a press release outline, then publish through [NFT Project PR](https://buycryptopressrelease.com/nft-project-pr/).
-
 ## Keywords
 
 NFT Press Release · NFT Project PR · NFT PR Distribution · NFT Collection Launch PR · NFT Mint Announcement · NFT Reveal Announcement · NFT Marketplace Listing PR · Web3 Press Release · Crypto Press Release · FAQ Generator · FAQPage Schema
@@ -223,7 +219,6 @@ NFT Press Release · NFT Project PR · NFT PR Distribution · NFT Collection Lau
 | Crypto Presale PR | https://buycryptopressrelease.com/crypto-presale-pr/ |
 | Token Launch and Listing PR | https://buycryptopressrelease.com/token-launch-pr/ |
 | Metaverse and Web3 PR | https://buycryptopressrelease.com/metaverse-web3-pr/ |
-| NFT Collection Announcement Analyzer | https://buycryptopressrelease.github.io/nft-collection-announcement-analyzer/ |
 | Crypto PR Writing Guide | https://buycryptopressrelease.com/crypto-pr-writing-guide/ |
 | Crypto PR Glossary | https://buycryptopressrelease.com/crypto-pr-glossary/ |
 | Free Crypto PR Templates | https://buycryptopressrelease.com/crypto-pr-templates |
