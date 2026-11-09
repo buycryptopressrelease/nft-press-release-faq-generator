@@ -8,7 +8,7 @@ case_id,query,expected_id,expected_question,confidence,band
 7,which news sites will publish my nft release,7,Which media sites publish NFT press releases?,80,Good match
 8,do you cover solana nfts,8,Do you cover NFTs on every blockchain?,92,Strong match
 9,what other crypto pr services do you have,9,What other crypto PR services does BuyCryptoPressRelease.com offer?,100,Strong match
-10,free tool for nft headline ideas,10,Is there a free tool to plan my NFT announcement?,90,Strong match
+10,can i promote my nft before launch,10,Can I promote an NFT project before it launches?,94,Strong match
 11,announce my new nft collection,11,Can I announce a new NFT collection launch?,100,Strong match
 12,mint date announcement press release,12,Can I publish a mint date announcement?,75,Good match
 13,how many days before mint should i publish,13,How early should I publish before my mint?,70,Good match
