@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/nft-press-release-faq-generator?style=flat-square&color=8b5cf6&labelColor=111827)](https://www.npmjs.com/package/nft-press-release-faq-generator)
 [![PyPI](https://img.shields.io/pypi/v/nft-press-release-faq-generator?style=flat-square&color=8b5cf6&labelColor=111827)](https://pypi.org/project/nft-press-release-faq-generator/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24092193.svg)](https://doi.org/10.5281/zenodo.24092193)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-8b5cf6?style=flat-square&labelColor=111827)](https://nft-press-release-faq-generator.readthedocs.io)
 [![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-8b5cf6?style=flat-square&labelColor=111827)](https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=111827)](LICENSE)
@@ -239,7 +240,7 @@ NFT Press Release · NFT Project PR · NFT PR Distribution · NFT Collection Lau
 | PyPI | https://pypi.org/project/nft-press-release-faq-generator/ |
 | Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/nft-press-release-faq-dataset |
 | Kaggle | https://www.kaggle.com/datasets/buycryptopr/nft-press-release-faq-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.24092193 |
 | Docs | https://nft-press-release-faq-generator.readthedocs.io |
 
 ## Contact
